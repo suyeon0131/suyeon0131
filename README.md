@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=suyeon0131&show_icons=true&theme=dracula&hide="/>
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=suyeon0131&show_icons=true&theme=dracula&hide="/>
  
   ### 👩‍💻 suyeon0131 👩‍💻
 
