@@ -5,12 +5,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon0131%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 </div>
+
+ ---
  
  <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suyeon0131&show_icons=true&theme=transparent&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0131&layout=compact&show_icons=true&theme=transparent" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0131&layout=compact&show_icons=true&theme=transparent" height="150" alt="languages graph"  />
 </div>
 
 ---
