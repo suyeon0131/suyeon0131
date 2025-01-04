@@ -15,8 +15,8 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0131&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyeon0131&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyeon0131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=suyeon0131&show_icons=true&theme=dracula&hide=" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0131&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10" height="150" alt="languages graph"  />
 </div>
 
 ---
