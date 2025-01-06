@@ -9,7 +9,7 @@
  <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyeon0131&show_icons=true&theme=transparent&c" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=suyeon0131&show_icons=true&theme=transparent" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0131&layout=compact&show_icons=true&theme=transparent" height="130" alt="languages graph"  />
 </div>
 
