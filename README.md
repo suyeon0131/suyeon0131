@@ -27,3 +27,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+
